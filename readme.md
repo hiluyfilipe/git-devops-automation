@@ -15,7 +15,7 @@ Demonstrar habilidades práticas em:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Git & GitHub
+- Git & GitHub - adicionando conteúdo remotamente
 - Docker
 - Kubernetes
 - Terraform
